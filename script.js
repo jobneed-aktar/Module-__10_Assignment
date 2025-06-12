@@ -1,20 +1,31 @@
 /*
-1.  Write a function named countVowels that takes a string and returns the number of vowels in it.
+  1.  Write a function named countVowels that takes a string and returns the number of vowels in it.
 */
 
-let input = prompt("Enter any word or sentence : ").trim();
-function countVowels(input) {
-  let count = 0;
-  const vowels = "aeiouAEIOU";
-  for (let char of input) {
-    if (vowels.includes(char)) {
-      count++;
-    }
-  }
-  return count;
-}
+// let input = prompt("Enter any word or sentence : ").trim();
+// function countVowels(input) {
+//   let count = 0;
+//   const vowels = "aeiouAEIOU";
+//   for (let char of input) {
+//     if (vowels.includes(char)) {
+//       count++;
+//     }
+//   }
+//   return count;
+// }
 
-console.log(countVowels(input));
+// console.log(countVowels(input));
 
+
+/*
+  2. Write a function named sortNumbers that takes an array of numbers and returns the array sorted in ascending order.
+*/
+
+// function sortNumbers(arr) {
+//   return arr.sort((a, b) => a - b);
+// }
+
+// const result = sortNumbers([4, 1, 8, 3]);
+// console.log(result);
 
 
