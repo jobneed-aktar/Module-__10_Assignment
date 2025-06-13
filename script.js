@@ -53,3 +53,14 @@
 
 // const result = getLastElement([10, 20, 30, 40]);
 // console.log(result);
+
+/*
+  5. Write a function named mergeArrays that takes two arrays and returns a new array containing elements from both arrays.
+*/
+
+// function mergeArrays(arr1, arr2) {
+//   return [...arr1, ...arr2];
+// }
+
+// const result = mergeArrays([1, 2], [3, 4]);
+// console.log(result);
