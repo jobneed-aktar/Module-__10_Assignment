@@ -43,3 +43,13 @@
 
 
 
+/*
+  4. Write a function named getLastElement that takes an array and returns the last element.
+*/
+
+// function getLastElement(arr) {
+//   return arr[arr.length - 1];
+// }
+
+// const result = getLastElement([10, 20, 30, 40]);
+// console.log(result);
