@@ -76,3 +76,26 @@
 
 // const result = hasSpace("Ostad Limited");
 // console.log(result);
+
+
+/*
+  7. Write a function named isEmptyString that takes a string and returns true if the string is empty, otherwise false.
+*/
+
+// function isEmptyString(str) {
+//   return str === "";
+// }
+
+// console.log(isEmptyString(""));
+// console.log(isEmptyString("Hello"));
+
+/*
+  8. Write a function removeNegativeNumbers(arr) that removes all negative numbers from the array.
+*/
+
+// function removeNegativeNumbers(arr) {
+//   return arr.filter(num => num >= 0);
+// }
+
+// const result = removeNegativeNumbers([-5, 2, -1, 6, 0]);
+// console.log(result);
