@@ -64,3 +64,15 @@
 
 // const result = mergeArrays([1, 2], [3, 4]);
 // console.log(result);
+
+
+/*
+  6. Write a function named hasSpace that takes a string and returns true if it contains a space character.
+*/
+
+// function hasSpace(str) {
+//   return str.includes(' ');
+// }
+
+// const result = hasSpace("Ostad Limited");
+// console.log(result);
