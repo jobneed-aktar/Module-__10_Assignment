@@ -30,4 +30,16 @@
 
 
 
+/*
+  3. Write a function named reverseString that takes a string and returns the reversed version of the string.
+*/
+
+// function reverseString(str) {
+//   return str.split('').reverse().join('');
+// }
+
+// const result = reverseString("hello");
+// console.log(result);
+
+
 
